@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 🤙 Kaguwo here.</h1>
 <h3 align="center">Front-end Developer from Turkey. Trying to learn Back-end languages to being full-stack developer asap.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kaguwomin&label=Profile%20views&color=29b6b0&style=flat" alt="kaguwomin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kaguwomin&label=Profile%20views&color=29b6b0&style=flat" style="height: 12px; weight: 12px;" alt="kaguwomin" /> </p>
 
 
 <p align="center"> <a href="https://twitter.com/kaguwomin" target="blank"><img src="https://img.shields.io/twitter/follow/kaguwomin?label=Follow%20me%20on%20Bird%21&logoColor=%237289da" alt="kaguwomin" /></a> </p>
