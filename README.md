@@ -3,7 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaguwomin&label=Profile%20views&color=29b6b0&style=flat-square" alt="kaguwomin" /> </p>
 
-<p align="center"> <a href="https://twitter.com/kaguwomin" target="blank"><img src="https://img.shields.io/twitter/follow/kaguwomin?logo=twitter&style=for-the-badge" alt="kaguwomin" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/kaguwomin" target="blank"><img src="https://img.shields.io/twitter/follow/kaguwomin?label=Follow%20me%20on%20Bird%21&logoColor=%237289da" alt="kaguwomin" /></a> </p>
 
 - 🔭 I’m currently working on: [modern-next-portfolio](https://github.com/KaguwoNetwork/modern-next-portfolio)
 
