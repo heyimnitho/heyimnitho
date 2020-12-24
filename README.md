@@ -18,8 +18,8 @@
 
 - 📫 Mail Address - **kaguwomin@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/kaguwomin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kaguwomin" height="30" width="40" /></a>
 <a href="https://medium.com/@kaguwo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kaguwo" height="30" width="40" /></a>
 <a href="https://discord.gg/VvN88r3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="VvN88r3" height="30" width="40" /></a>
