@@ -1,9 +1,9 @@
 <h1 align="center">Hey there! 🤙 Kaguwo here.</h1>
 <h3 align="center">Front-end Developer from Turkey. Trying to learn Back-end languages to being full-stack developer asap.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaguwomin&label=Profile%20views&color=29b6b0&style=flat-square" alt="kaguwomin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kaguwomin&label=Profile%20views&color=29b6b0&style=flat-square" alt="kaguwomin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kaguwomin" target="blank"><img src="https://img.shields.io/twitter/follow/kaguwomin?logo=twitter&style=for-the-badge" alt="kaguwomin" /></a> </p>
+<p align="center"> <a href="https://twitter.com/kaguwomin" target="blank"><img src="https://img.shields.io/twitter/follow/kaguwomin?logo=twitter&style=for-the-badge" alt="kaguwomin" /></a> </p>
 
 - 🔭 I’m currently working on: [modern-next-portfolio](https://github.com/KaguwoNetwork/modern-next-portfolio)
 
