@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: [modern-next-portfolio](https://github.com/KaguwoNetwork/modern-next-portfolio)
 
-- 🌱 I’m currently learning; **Go, Node.js, Nim, Python**
+- 🌱 I’m currently learning; **Go, Node.js, Deno, TypeScript, Nim, Python**
 
 - 👨‍💻 Portfolio - [https://kaguwo.js.org/](https://kaguwo.js.org/)
 
