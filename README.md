@@ -6,8 +6,6 @@
 
 <p align="center"> <a href="https://twitter.com/kaguwomin" target="blank"><img src="https://img.shields.io/twitter/follow/kaguwomin?label=Follow%20me%20on%20Bird%21&logoColor=%237289da" alt="kaguwomin" /></a> </p>
 
-- 🔭 I’m currently working on: [modern-next-portfolio](https://github.com/KaguwoNetwork/modern-next-portfolio)
-
 - 🌱 I’m currently learning; **Go, Node.js, Deno, TypeScript, Nim, Python**
 
 - 👨‍💻 Portfolio - [https://kaguwo.js.org/](https://kaguwo.js.org/)
