@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 🤙 Nitho here.</h1>
-<h3 align="center">Front-end Developer from Turkey. Trying to learn Back-end languages to being full-stack developer asap.</h3>
+<h3 align="center">Front-end Developer from Turkey. <br> Trying to learn Back-end languages to being full-stack developer asap.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaguwo&label=Profile%20views&color=29b6b0&style=flat" alt="kaguwo" /> </p>
 
