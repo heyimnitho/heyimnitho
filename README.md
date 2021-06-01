@@ -23,7 +23,7 @@
 <a href="https://discord.com/users/495584014934081538" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="VvN88r3" height="30" width="40" /></a>
 </p>
 
-<p align="center"> [![Spotify](https://novatorem-ruby-rho.vercel.app/api/spotify)](https://open.spotify.com/user/i1ftnp8o2z994a72zglh311rn) </p>
-
 <p align="center">&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=heyimnitho&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
 <p align="center">&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyimnitho&theme=dark&hide_border=true&layout=compact">
+
+[![Spotify](https://novatorem-ruby-rho.vercel.app/api/spotify)](https://open.spotify.com/user/i1ftnp8o2z994a72zglh311rn)
