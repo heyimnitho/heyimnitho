@@ -1,10 +1,10 @@
-<h1 align="center">Hey there! 🤙 Nitho here.</h1>
-<h3 align="center">Front-end Developer from Turkey. <br> Trying to learn Back-end languages to being full-stack developer asap.</h3>
+<h1 align="left">Hey there! 🤙 Nitho here.</h1>
+<h3 align="left">Front-end Developer from Turkey. <br> Trying to learn Back-end languages to being full-stack developer asap.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kaguwo&label=Profile%20views&color=29b6b0&style=flat" alt="kaguwo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaguwo&label=Profile%20views&color=29b6b0&style=flat" alt="kaguwo" /> </p>
 
 
-<p align="center"> <a href="https://twitter.com/heyimnitho" target="blank"><img src="https://img.shields.io/twitter/follow/heyimnitho?label=Follow%20me%20on%20Bird%21&logoColor=%237289da" alt="heyimnitho" /></a> </p>
+<p align="left"> <a href="https://twitter.com/heyimnitho" target="blank"><img src="https://img.shields.io/twitter/follow/heyimnitho?label=Follow%20me%20on%20Bird%21&logoColor=%237289da" alt="heyimnitho" /></a> </p>
 
 - 🌱 I’m currently learning; **Go, Node.js, Deno, TypeScript, Nim, Python**
 
