@@ -23,4 +23,4 @@
 <a href="https://discord.com/users/495584014934081538" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="VvN88r3" height="30" width="40" /></a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaguwo&show_icons=true&theme=onedark&text_color=000000&locale=en" alt="heyimnitho" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyimnitho&show_icons=true&theme=onedark&text_color=000000&locale=en" alt="heyimnitho" /></p>
