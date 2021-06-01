@@ -16,13 +16,6 @@
 
 - 📫 Mail Address - **kaguwomin@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/heyimnitho" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kaguwomin" height="30" width="40" /></a>
-<a href="https://medium.com/@nitho" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kaguwo" height="30" width="40" /></a>
-<a href="https://discord.com/users/495584014934081538" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="VvN88r3" height="30" width="40" /></a>
-</p>
-
 <p align="left">&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=heyimnitho&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
 <p align="left">&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyimnitho&theme=dark&hide_border=true&layout=compact">
 
