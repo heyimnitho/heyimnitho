@@ -16,8 +16,10 @@
 
 - 📫 Mail Address - **kaguwomin@gmail.com**
 
+
+<h1 align="left">GitHub Stats</h1>
+
 <p align="left">&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=heyimnitho&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
-<p align="left">&nbsp;<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyimnitho&theme=dark&hide_border=true&layout=compact">
 
 <h1 align="left">What I'm listening right now on Spotify!</h1>
 
