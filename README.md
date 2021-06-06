@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning; **Go, Node.js, Deno, TypeScript, Nim, Python**
 
-- 👨‍💻 Portfolio - [https://nitho.ga/](https://nitho.ga/)
+- 👨‍💻 Portfolio - [https://nith.codes/](https://nith.codes/)
 
 - 📝 I regularly write articles on [https://nitho.medium.com/](https://nitho.medium.com/)
 
