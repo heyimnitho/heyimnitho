@@ -25,7 +25,3 @@
 
 [![Spotify](https://novatorem-ruby-rho.vercel.app/api/spotify)](https://open.spotify.com/user/i1ftnp8o2z994a72zglh311rn)
 
-
-<h1 align="left">Discord Status</h1>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/812653042074779687)](https://discord.com/users/812653042074779687)
