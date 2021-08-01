@@ -14,7 +14,7 @@
 
 - 💬 Ask me about; **React, Next and Redux**
 
-- 📫 Mail Address - **kaguwo@yandex.com*
+- 📫 Mail Address - **kaguwo@yandex.com**
 
 
 <h1 align="left">GitHub Stats</h1>
